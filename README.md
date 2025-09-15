@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @chargebackoff
+2. 你的主网 TON 钱包地址 = UQDkYCBG1mW7nMCJVaCBKd6X66ZzZyiyXUgAKbHkIKlwzYiv
 
 
 ## 任务：构思 NFT 版权方案
@@ -31,5 +31,7 @@ https://t.me/toneachat
 2. 你的方案有什么优势？
 3. 你的方案有什么取舍和不足？
 
-
+方案: 将版权条款直接嵌入NFT元数据，并存储法律文件哈希到IPFS。
+优势: 简单；版权条款不可篡改。
+权衡点: 难以修改或撤销；灵活性有限
 
